@@ -1,4 +1,4 @@
 # Blackeye FIXED
 
-##Install 
-          sudo apt install jq xsel
+# Install 
+                    sudo apt install jq xsel
