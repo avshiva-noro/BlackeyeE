@@ -5,4 +5,4 @@
 Once you installed the packages run the blackeye.sh script, let it download the ngrok package to the blackeye folder then 
 
 ### Configure ngrok
-    ngrok authtoken [Your personal accounts token]
+    ./ngrok authtoken [Your personal accounts token]
